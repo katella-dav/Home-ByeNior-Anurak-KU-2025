@@ -14,7 +14,7 @@ def generate_html_table_from_folder(folder_path, per_row=4, width=150):
         if i % per_row == 0:
             html += '  <tr>\n'
 
-        html += f'    <td><img src="./{folder_path}/{file_name}" width="{width}"><br><a href="./{folder_path}/{file_name}">{file_name}</a></td>\n'
+        html += f'    <td><img src="./{file_name}" width="{width}"><br><a href="./{file_name}">{file_name}</a></td>\n'
 
         if (i + 1) % per_row == 0:
             html += '  </tr>\n'
