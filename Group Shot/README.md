@@ -1,173 +1,91 @@
 # Group Shot (ยังไม่ได้ตัดต่อ)
 [🏠หน้าหลัก](../README.md)
-
-![GroupShot1](./GroupShot1.jpg)  
-[GroupShot1](./GroupShot1.jpg)  
-
-![GroupShot2](./GroupShot2.jpg)  
-[GroupShot2](./GroupShot2.jpg)  
-
-![GroupShot3](./GroupShot3.jpg)  
-[GroupShot3](./GroupShot3.jpg)  
-
-![GroupShot4](./GroupShot4.jpg)  
-[GroupShot4](./GroupShot4.jpg)  
-
-![GroupShot5](./GroupShot5.jpg)  
-[GroupShot5](./GroupShot5.jpg)  
-
-![GroupShot6](./GroupShot6.jpg)  
-[GroupShot6](./GroupShot6.jpg)  
-
-![GroupShot7](./GroupShot7.jpg)  
-[GroupShot7](./GroupShot7.jpg)  
-
-![GroupShot8](./GroupShot8.jpg)  
-[GroupShot8](./GroupShot8.jpg)  
-
-![GroupShot9](./GroupShot9.jpg)  
-[GroupShot9](./GroupShot9.jpg)  
-
-![GroupShot10](./GroupShot10.jpg)  
-[GroupShot10](./GroupShot10.jpg)  
-
-![GroupShot11](./GroupShot11.jpg)  
-[GroupShot11](./GroupShot11.jpg)  
-
-![GroupShot12](./GroupShot12.jpg)  
-[GroupShot12](./GroupShot12.jpg)  
-
-![GroupShot13](./GroupShot13.jpg)  
-[GroupShot13](./GroupShot13.jpg)  
-
-![GroupShot14](./GroupShot14.jpg)  
-[GroupShot14](./GroupShot14.jpg)  
-
-![GroupShot15](./GroupShot15.jpg)  
-[GroupShot15](./GroupShot15.jpg)  
-
-![GroupShot16](./GroupShot16.jpg)  
-[GroupShot16](./GroupShot16.jpg)  
-
-![GroupShot17](./GroupShot17.jpg)  
-[GroupShot17](./GroupShot17.jpg)  
-
-![GroupShot18](./GroupShot18.jpg)  
-[GroupShot18](./GroupShot18.jpg)  
-
-![GroupShot19](./GroupShot19.jpg)  
-[GroupShot19](./GroupShot19.jpg)  
-
-![GroupShot20](./GroupShot20.jpg)  
-[GroupShot20](./GroupShot20.jpg)  
-
-![GroupShot21](./GroupShot21.jpg)  
-[GroupShot21](./GroupShot21.jpg)  
-
-![GroupShot22](./GroupShot22.jpg)  
-[GroupShot22](./GroupShot22.jpg)  
-
-![GroupShot23](./GroupShot23.jpg)  
-[GroupShot23](./GroupShot23.jpg)  
-
-![GroupShot24](./GroupShot24.jpg)  
-[GroupShot24](./GroupShot24.jpg)  
-
-![GroupShot25](./GroupShot25.jpg)  
-[GroupShot25](./GroupShot25.jpg)  
-
-![GroupShot26](./GroupShot26.jpg)  
-[GroupShot26](./GroupShot26.jpg)  
-
-![GroupShot27](./GroupShot27.jpg)  
-[GroupShot27](./GroupShot27.jpg)  
-
-![GroupShot28](./GroupShot28.jpg)  
-[GroupShot28](./GroupShot28.jpg)  
-
-![GroupShot29](./GroupShot29.jpg)  
-[GroupShot29](./GroupShot29.jpg)  
-
-![GroupShot30](./GroupShot30.jpg)  
-[GroupShot30](./GroupShot30.jpg)  
-
-![GroupShot31](./GroupShot31.jpg)  
-[GroupShot31](./GroupShot31.jpg)  
-
-![GroupShot32](./GroupShot32.jpg)  
-[GroupShot32](./GroupShot32.jpg)  
-
-![GroupShot33](./GroupShot33.jpg)  
-[GroupShot33](./GroupShot33.jpg)  
-
-![GroupShot34](./GroupShot34.jpg)  
-[GroupShot34](./GroupShot34.jpg)  
-
-![GroupShot35](./GroupShot35.jpg)  
-[GroupShot35](./GroupShot35.jpg)  
-
-![GroupShot36](./GroupShot36.jpg)  
-[GroupShot36](./GroupShot36.jpg)  
-
-![GroupShot37](./GroupShot37.jpg)  
-[GroupShot37](./GroupShot37.jpg)  
-
-![GroupShot38](./GroupShot38.jpg)  
-[GroupShot38](./GroupShot38.jpg)  
-
-![GroupShot39](./GroupShot39.jpg)  
-[GroupShot39](./GroupShot39.jpg)  
-
-![GroupShot40](./GroupShot40.jpg)  
-[GroupShot40](./GroupShot40.jpg)  
-
-![GroupShot41](./GroupShot41.jpg)  
-[GroupShot41](./GroupShot41.jpg)  
-
-![GroupShot42](./GroupShot42.jpg)  
-[GroupShot42](./GroupShot42.jpg)  
-
-![GroupShot43](./GroupShot43.jpg)  
-[GroupShot43](./GroupShot43.jpg)  
-
-![GroupShot44](./GroupShot44.jpg)  
-[GroupShot44](./GroupShot44.jpg)  
-
-![GroupShot45](./GroupShot45.jpg)  
-[GroupShot45](./GroupShot45.jpg)  
-
-![GroupShot46](./GroupShot46.jpg)  
-[GroupShot46](./GroupShot46.jpg)  
-
-![GroupShot47](./GroupShot47.jpg)  
-[GroupShot47](./GroupShot47.jpg)  
-
-![GroupShot48](./GroupShot48.jpg)  
-[GroupShot48](./GroupShot48.jpg)  
-
-![GroupShot49](./GroupShot49.jpg)  
-[GroupShot49](./GroupShot49.jpg)  
-
-![GroupShot50](./GroupShot50.jpg)  
-[GroupShot50](./GroupShot50.jpg)  
-
-![GroupShot51](./GroupShot51.jpg)  
-[GroupShot51](./GroupShot51.jpg)  
-
-![GroupShot52](./GroupShot52.jpg)  
-[GroupShot52](./GroupShot52.jpg)  
-
-![GroupShot53](./GroupShot53.jpg)  
-[GroupShot53](./GroupShot53.jpg)  
-
-![GroupShot54](./GroupShot54.jpg)  
-[GroupShot54](./GroupShot54.jpg)  
-
-![GroupShot55](./GroupShot55.jpg)  
-[GroupShot55](./GroupShot55.jpg)  
-
-![GroupShot56](./GroupShot56.jpg)  
-[GroupShot56](./GroupShot56.jpg)  
-
-![GroupShot57](./GroupShot57.jpg)  
-[GroupShot57](./GroupShot57.jpg)  
+<table>
+  <tr>
+    <td><img src="./GroupShot1.jpg" width="150"><br><a href="./GroupShot1.jpg">GroupShot1.jpg</a></td>
+    <td><img src="./GroupShot10.jpg" width="150"><br><a href="./GroupShot10.jpg">GroupShot10.jpg</a></td>
+    <td><img src="./GroupShot11.jpg" width="150"><br><a href="./GroupShot11.jpg">GroupShot11.jpg</a></td>
+    <td><img src="./GroupShot12.jpg" width="150"><br><a href="./GroupShot12.jpg">GroupShot12.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot13.jpg" width="150"><br><a href="./GroupShot13.jpg">GroupShot13.jpg</a></td>
+    <td><img src="./GroupShot14.jpg" width="150"><br><a href="./GroupShot14.jpg">GroupShot14.jpg</a></td>
+    <td><img src="./GroupShot15.jpg" width="150"><br><a href="./GroupShot15.jpg">GroupShot15.jpg</a></td>
+    <td><img src="./GroupShot16.jpg" width="150"><br><a href="./GroupShot16.jpg">GroupShot16.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot17.jpg" width="150"><br><a href="./GroupShot17.jpg">GroupShot17.jpg</a></td>
+    <td><img src="./GroupShot18.jpg" width="150"><br><a href="./GroupShot18.jpg">GroupShot18.jpg</a></td>
+    <td><img src="./GroupShot19.jpg" width="150"><br><a href="./GroupShot19.jpg">GroupShot19.jpg</a></td>
+    <td><img src="./GroupShot2.jpg" width="150"><br><a href="./GroupShot2.jpg">GroupShot2.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot20.jpg" width="150"><br><a href="./GroupShot20.jpg">GroupShot20.jpg</a></td>
+    <td><img src="./GroupShot21.jpg" width="150"><br><a href="./GroupShot21.jpg">GroupShot21.jpg</a></td>
+    <td><img src="./GroupShot22.jpg" width="150"><br><a href="./GroupShot22.jpg">GroupShot22.jpg</a></td>
+    <td><img src="./GroupShot23.jpg" width="150"><br><a href="./GroupShot23.jpg">GroupShot23.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot24.jpg" width="150"><br><a href="./GroupShot24.jpg">GroupShot24.jpg</a></td>
+    <td><img src="./GroupShot25.jpg" width="150"><br><a href="./GroupShot25.jpg">GroupShot25.jpg</a></td>
+    <td><img src="./GroupShot26.jpg" width="150"><br><a href="./GroupShot26.jpg">GroupShot26.jpg</a></td>
+    <td><img src="./GroupShot27.jpg" width="150"><br><a href="./GroupShot27.jpg">GroupShot27.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot28.jpg" width="150"><br><a href="./GroupShot28.jpg">GroupShot28.jpg</a></td>
+    <td><img src="./GroupShot29.jpg" width="150"><br><a href="./GroupShot29.jpg">GroupShot29.jpg</a></td>
+    <td><img src="./GroupShot3.jpg" width="150"><br><a href="./GroupShot3.jpg">GroupShot3.jpg</a></td>
+    <td><img src="./GroupShot30.jpg" width="150"><br><a href="./GroupShot30.jpg">GroupShot30.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot31.jpg" width="150"><br><a href="./GroupShot31.jpg">GroupShot31.jpg</a></td>
+    <td><img src="./GroupShot32.jpg" width="150"><br><a href="./GroupShot32.jpg">GroupShot32.jpg</a></td>
+    <td><img src="./GroupShot33.jpg" width="150"><br><a href="./GroupShot33.jpg">GroupShot33.jpg</a></td>
+    <td><img src="./GroupShot34.jpg" width="150"><br><a href="./GroupShot34.jpg">GroupShot34.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot35.jpg" width="150"><br><a href="./GroupShot35.jpg">GroupShot35.jpg</a></td>
+    <td><img src="./GroupShot36.jpg" width="150"><br><a href="./GroupShot36.jpg">GroupShot36.jpg</a></td>
+    <td><img src="./GroupShot37.jpg" width="150"><br><a href="./GroupShot37.jpg">GroupShot37.jpg</a></td>
+    <td><img src="./GroupShot38.jpg" width="150"><br><a href="./GroupShot38.jpg">GroupShot38.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot39.jpg" width="150"><br><a href="./GroupShot39.jpg">GroupShot39.jpg</a></td>
+    <td><img src="./GroupShot4.jpg" width="150"><br><a href="./GroupShot4.jpg">GroupShot4.jpg</a></td>
+    <td><img src="./GroupShot40.jpg" width="150"><br><a href="./GroupShot40.jpg">GroupShot40.jpg</a></td>
+    <td><img src="./GroupShot41.jpg" width="150"><br><a href="./GroupShot41.jpg">GroupShot41.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot42.jpg" width="150"><br><a href="./GroupShot42.jpg">GroupShot42.jpg</a></td>
+    <td><img src="./GroupShot43.jpg" width="150"><br><a href="./GroupShot43.jpg">GroupShot43.jpg</a></td>
+    <td><img src="./GroupShot44.jpg" width="150"><br><a href="./GroupShot44.jpg">GroupShot44.jpg</a></td>
+    <td><img src="./GroupShot45.jpg" width="150"><br><a href="./GroupShot45.jpg">GroupShot45.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot46.jpg" width="150"><br><a href="./GroupShot46.jpg">GroupShot46.jpg</a></td>
+    <td><img src="./GroupShot47.jpg" width="150"><br><a href="./GroupShot47.jpg">GroupShot47.jpg</a></td>
+    <td><img src="./GroupShot48.jpg" width="150"><br><a href="./GroupShot48.jpg">GroupShot48.jpg</a></td>
+    <td><img src="./GroupShot49.jpg" width="150"><br><a href="./GroupShot49.jpg">GroupShot49.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot5.jpg" width="150"><br><a href="./GroupShot5.jpg">GroupShot5.jpg</a></td>
+    <td><img src="./GroupShot50.jpg" width="150"><br><a href="./GroupShot50.jpg">GroupShot50.jpg</a></td>
+    <td><img src="./GroupShot51.jpg" width="150"><br><a href="./GroupShot51.jpg">GroupShot51.jpg</a></td>
+    <td><img src="./GroupShot52.jpg" width="150"><br><a href="./GroupShot52.jpg">GroupShot52.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot53.jpg" width="150"><br><a href="./GroupShot53.jpg">GroupShot53.jpg</a></td>
+    <td><img src="./GroupShot54.jpg" width="150"><br><a href="./GroupShot54.jpg">GroupShot54.jpg</a></td>
+    <td><img src="./GroupShot55.jpg" width="150"><br><a href="./GroupShot55.jpg">GroupShot55.jpg</a></td>
+    <td><img src="./GroupShot56.jpg" width="150"><br><a href="./GroupShot56.jpg">GroupShot56.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot57.jpg" width="150"><br><a href="./GroupShot57.jpg">GroupShot57.jpg</a></td>
+    <td><img src="./GroupShot6.jpg" width="150"><br><a href="./GroupShot6.jpg">GroupShot6.jpg</a></td>
+    <td><img src="./GroupShot7.jpg" width="150"><br><a href="./GroupShot7.jpg">GroupShot7.jpg</a></td>
+    <td><img src="./GroupShot8.jpg" width="150"><br><a href="./GroupShot8.jpg">GroupShot8.jpg</a></td>
+  </tr>
+  <tr>
+    <td><img src="./GroupShot9.jpg" width="150"><br><a href="./GroupShot9.jpg">GroupShot9.jpg</a></td>
+  </tr>
+</table>
