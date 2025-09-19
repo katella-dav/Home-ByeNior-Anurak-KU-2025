@@ -8,4 +8,4 @@
 * [รูปปี 4](./Senior%20(KU82)/README.md)
 
 ## รูปรวมของแต่ละชั้นปี
-* [รูปรวม](./Group Shot/README.md)
+* [รูปรวม](./Group%20Shot/README.md)
